@@ -23,7 +23,7 @@ The dataset contains:
 - Banana generated the highest revenue (41.1%)
 - East region recorded the highest total sales (460)
 - Orange contributed the lowest share of sales (25.8%)
-
+ 
 ## 📊 Analysis Performed
 - Built Pivot Tables to summarize sales by product and region
 - Used SUMIFS to calculate conditional totals (e.g. sales per region)
