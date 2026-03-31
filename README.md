@@ -25,14 +25,16 @@ The dataset contains:
 - Orange contributed the lowest share of sales (25.8%)
 
 ## 📊 Analysis Performed
-- Data aggregation using totals
-- Percentage contribution analysis
-- Regional performance comparison
-
+- Built Pivot Tables to summarize sales by product and region
+- Used SUMIFS to calculate conditional totals (e.g. sales per region)
+- Used SUM to compute overall and category totals
+- Identified data patterns to surface key business insights
+  
 ## 📁 Files Included
 - [sales_data.xlsx](https://github.com/user-attachments/files/26389455/Excel.sheet.pdf)
 
 ## 💡 What I Learned
-- How to summarize raw data into insights
-- Basic business analysis thinking
-- Presenting findings clearly
+- How to use Pivot Tables to quickly summarize large datasets
+- Writing SUMIFS formulas for conditional aggregation
+- Translating raw data patterns into business insights
+- Structuring findings in a clear, professional format
