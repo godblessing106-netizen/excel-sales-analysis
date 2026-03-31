@@ -30,10 +30,9 @@ The dataset contains:
 - Regional performance comparison
 
 ## 📁 Files Included
-- sales_data.xlsx
+- [sales_data.xlsx](https://github.com/user-attachments/files/26389455/Excel.sheet.pdf)
 
 ## 💡 What I Learned
 - How to summarize raw data into insights
 - Basic business analysis thinking
 - Presenting findings clearly
-[Excel sheet.pdf](https://github.com/user-attachments/files/26389455/Excel.sheet.pdf)
